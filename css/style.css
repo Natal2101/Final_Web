@@ -56,7 +56,7 @@ body {
 		color: gainsboro;
 		margin-top: 15%;
 		margin-bottom: auto;
-		text-transform: capitalize;
+		text-transform: uppercase;
 	}
 	hr {
 		width: 93%;
